@@ -1,2 +1,2 @@
-# ceh
-There is nothing ethical about it, you gotta do it anyway.
+# quasar
+Handy Python scripts for backend development!
